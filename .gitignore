@@ -11,3 +11,5 @@ log/*
 private/images/*
 public/cache/*
 .DS_Store
+.DS_Store
+Thumbs.db
